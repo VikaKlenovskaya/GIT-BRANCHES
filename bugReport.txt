@@ -1,4 +1,4 @@
-Bug Name: 
+   Bug Name: 
    Bug ID: 
    Area Path: 
    Build Number:
